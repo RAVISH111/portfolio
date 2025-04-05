@@ -14,11 +14,11 @@ window.onscroll = () => {
 };
 
 document.getElementById('resume-button-1').addEventListener("click", () => {
-  window.open("https://drive.google.com/file/d/1UAj5f-fHiInGHRnJJjCvNHGGwzpm3RMo/view?usp=share_link", "_blank");
+  window.open("https://drive.google.com/file/d/1iOy7rpgjRGA0MK2BDj6b8bMXhniIWNmF/view?usp=sharing", "_blank");
 });
 
 // document.getElementById('resume-button-2').addEventListener("click", () => {
-//   window.open("https://drive.google.com/file/d/1UAj5f-fHiInGHRnJJjCvNHGGwzpm3RMo/view?usp=share_link", "_blank");
+//   window.open("https://drive.google.com/file/d/1iOy7rpgjRGA0MK2BDj6b8bMXhniIWNmF/view?usp=sharing", "_blank");
 // });
 
 // // owl carousel script 
